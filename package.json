@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eris": "^0.17.1"
+  },
+  "name": "sillygoofyhaha",
+  "version": "1.0.0",
+  "description": "silly bot that responds sometimes",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm i && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+D:/Servers/goofybot"
+  },
+  "author": "Monday#2994",
+  "license": "NULL",
+  "bugs": {
+    "url": "https:\\NULL"
+  },
+  "homepage": "NULL"
+}
